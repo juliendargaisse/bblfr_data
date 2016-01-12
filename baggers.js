@@ -5265,41 +5265,33 @@ var data = {
         {
             "name": "Julien Dargaisse",
             "bio": "Tech Entrepreneur & UI/UX Designer. A l'initiative de PALO ALTOURS, La Cantine Numérique Tours, Startup Weekend Tours, Apéro Entrepreneurs Tours. #FBSAlumni",
-            "picture": "https://pbs.twimg.com/profile_images/2284064030/r1fue8rqkl904pvija46.jpeg",
+            "picture": "http://fr.gravatar.com/userimage/31222326/37925fca19961f92bb44f80db893e6a9.png?size=200",
             "websites": [
                 {
-                    "title": "linkedin",
+                    "title": "LinkedIn",
                     "href": "https://www.linkedin.com/in/juliendargaisse"
                 },
                 {
-                    "title": "BuzzleMe (fondateur)",
-                    "href": "http://www.buzzle.me/fr"
+                    "title": "InterviewApp (Co-fondateur)",
+                    "href": "http:/itwapp.io"
                 },
                 {
-                    "title": "Nowly (co-fondateur)",
+                    "title": "Nowly (Co-fondateur)",
                     "href": "http://www.nowly.co"
                 },
                 {
-                    "title": "PALO ALTOURS (Startup associative)",
+                    "title": "Président, PALO ALTOURS (Association)",
                     "href": "http://www.paloaltours.org"
                 }
             ],
             "twitter": "juliendargaisse",
-            "contact": "julien [at] nowly.co",
-            "mail": "julien@nowly.co",
+            "contact": "julien.dargaisse+bbl [at] gmail.com",
+            "mail": "julien.dargaisse+bbl@gmail.com",
             "location": "Tours",
             "sessions": [
                 {
-                    "title": "Gestion de projet innovant",
-                    "summary": "Partage d'expérience: de l'idée à la commercialisation en passant par le financement."
-                },
-                {
-                    "title": "Travailler en mobilité",
-                    "summary": "Les apps/saas pour pouvoir travailler en mobilité."
-                },
-                {
-                    "title": "Le recrutement 2.0",
-                    "summary": "Les outils et bonnes pratiques pour recruter avec le web."
+                    "title": "Optimiser la performance du processus de recrutement",
+                    "summary": "Les outils et bonnes pratiques pour recruter avec des outils numériques."
                 }
             ],
             "tags": [
