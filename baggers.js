@@ -7614,15 +7614,15 @@ var data = {
         },
         {
           "name": "Web",
-          "url": "http://www.buzzle.me/fr"
+          "url": "https://itwapp.io/fr"
         },
         {
           "name": "Web",
-          "url": "http://www.nowly.co"
+          "url": "https://lehq.co"
         },
         {
           "name": "Web",
-          "url": "http://www.paloaltours.org"
+          "url": "https://paloaltours.org"
         }
       ],
       "location": "Tours",
@@ -7682,7 +7682,7 @@ var data = {
       ],
       "contacts": {
         "twitter": "juliendargaisse",
-        "mail": "julien@nowly.co"
+        "mail": "julien@itwapp.io"
       }
     },
     {
@@ -7694,10 +7694,6 @@ var data = {
         {
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/jeromeheissler"
-        },
-        {
-          "name": "Web",
-          "url": "http://www.buzzle.me/fr"
         },
         {
           "name": "Web",
